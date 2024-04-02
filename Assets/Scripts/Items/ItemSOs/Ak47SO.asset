@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e74d6918db4c84295ffe6f1a5e0973, type: 3}
+  m_Name: Ak47SO
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7245925135032459832, guid: 11bd4171626fbf94c82b44b9a0bdc2bc, type: 3}
+  itemIcon: {fileID: 21300000, guid: 4bb28a32f7840394a9cbbe6b09e6c06d, type: 3}
+  bulletCapacity: 40
+  nameString: AK-47
+  WEAPON_TIMER_MAX: 0.5
