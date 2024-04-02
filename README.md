@@ -1,5 +1,5 @@
 This is 5 days project.<br>
-Some free assets taken from Unity Asset Store were used in this project.
+Some free assets taken from Unity Asset Store and others were used in this project.
 
 List of used free assets
 <ul>https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526</ul>
