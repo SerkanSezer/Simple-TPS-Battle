@@ -1,4 +1,3 @@
-This is 5 days project.<br>
 Classic third person shooter game. You can pick up various weapon and use at any time.<br>
 Simple UI, inventory and save system.<br>
 <br>
